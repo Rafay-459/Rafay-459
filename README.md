@@ -1,55 +1,58 @@
 # 👋 Hello, I'm Rafay!
 
-Just a student who's obsessed with coding and learning new stuff.
+I'm a student passionate about coding and constantly learning new things.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-Here are some of my favorites:
+Here are some of the technologies and tools I enjoy working with:
 
-- **Languages**: 
-  - Python
-  - C
-  - C++
-  
-- **Web Technologies**:
-  - HTML
-  - CSS
-  - JavaScript
-  
-- **Tools**:
-  - Git & GitHub
-  - Visual Studio Code
-  - Linux
+- **Languages:**  
+  - Python  
+  - C  
+  - C++  
+
+- **Web Technologies:**  
+  - HTML  
+  - CSS  
+  - JavaScript  
+
+- **Tools:**  
+  - Git & GitHub  
+  - Visual Studio Code  
+  - Linux  
 
 ---
 
 ## 🌱 Currently Learning
 
-I'm always eager to expand my skill set! Right now, I'm focused on:
+I'm always eager to grow and expand my skills. Currently, I'm focusing on:
 
-- Advanced algorithms and data structures
-- Web development frameworks (like React or Django)
-- Software engineering best practices
+- Advanced algorithms and data structures  
+- Web development frameworks (like React and Django)  
+- Software engineering best practices  
 
 ---
 
-## 📈 My Projects
+## 📈 Projects
 
-- i will update this section as i continue to learn more &more
+I'm actively working on new projects and will update this section as I progress. Stay tuned!
+
+[![Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafay-459&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- You can email me at: [rafeh.khan3245@gmail.com](mailto:rafeh.khan3245@gmail.com)
-- [Hecker#7260](https://discord.com/channels/@me/1010770302642434159)
+- **Email:** [rafeh.khan3245@gmail.com](mailto:rafeh.khan3245@gmail.com)  
+- **Discord:** [Hecker#7260](https://discord.com/channels/@me/1010770302642434159)  
+
 ---
 
 ## 🎉 Fun Facts
 
-- When I'm not coding, I enjoy playing video games.
-- If youre visiting my Profile. You might already know me.
+- When I'm not coding, I love playing video games.  
+- If you're visiting my profile, you probably already know me!  
 
-Thank you for visiting my profile! Feel free to check out my repositories and leave feedback!
-
+Thank you for stopping by! Check out my repositories and feel free to leave feedback.
