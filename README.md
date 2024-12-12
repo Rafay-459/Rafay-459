@@ -42,8 +42,8 @@ I'm always eager to expand my skill set! Right now, I'm focused on:
 
 ## 📫 How to Reach Me
 
-You can email me at: [rafeh.khan3245@gmail.com](mailto:rafeh.khan3245@gmail.com)
-
+- You can email me at: [rafeh.khan3245@gmail.com](mailto:rafeh.khan3245@gmail.com)
+- [Hecker#7260](https://discord.com/channels/@me/1010770302642434159)
 ---
 
 ## 🎉 Fun Facts
